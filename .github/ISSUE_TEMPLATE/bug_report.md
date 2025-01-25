@@ -23,10 +23,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Desktop:**
+ - OS: Windows Version 22H2
+ - Browser: Chrome Version 132.0.6834.111 (Official Build) (64-bit)
+ - Version: [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
